@@ -1,5 +1,5 @@
 var horas = prompt("numero1");
 var pago = prompt("numero2");
-var sueldoMensual = (horas * pago);
+var sueldoSemanal = (horas * pago);
 
-document.write (sueldoMensual);
+document.write (sueldoSemanal);
